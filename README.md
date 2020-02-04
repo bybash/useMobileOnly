@@ -1,5 +1,6 @@
 # useMobileOnly
 A small hook on Material-UI breakpoints
+
 Simply it checks breakpoint with useMediaQuery hook and turn query result.
 
 Basic usage
