@@ -1,7 +1,7 @@
 {
   "name": "usemobileonly",
-  "version": "1.0.0",
-  "description": "a small hook to determine window size is mobile or not depending on  material-ui breakpoints",
+  "version": "1.0.4",
+  "description": "A small hook to determine window size is mobile or not depending on  material-ui breakpoints",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
